@@ -1,0 +1,4 @@
+# AppServret
+Servretを用いてWebアプリケーション開発
+フレームワーク的な物を作ってみた
+Seasar2意識でURLによって各actionに飛ぶ仕組み
